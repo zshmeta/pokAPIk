@@ -1,0 +1,1198 @@
+
+
+
+[
+  {
+    "id": "Bulbasaur",
+    "name": "Bulbasaur",
+    "imgSrc": "./assets/001.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Ivysaur",
+    "name": "Ivysaur",
+    "imgSrc": "./assets/002.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Venusaur",
+    "name": "Venusaur",
+    "imgSrc": "./assets/003.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Charmander",
+    "name": "Charmander",
+    "imgSrc": "./assets/004.png",
+    "type": "Feu",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Charmeleon",
+    "name": "Charmeleon",
+    "imgSrc": "./assets/005.png",
+    "type": "Feu",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Charizard",
+    "name": "Charizard",
+    "imgSrc": "./assets/006.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Squirtle",
+    "name": "Squirtle",
+    "imgSrc": "./assets/007.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Wartortle",
+    "name": "Wartortle",
+    "imgSrc": "./assets/008.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Blastoise",
+    "name": "Blastoise",
+    "imgSrc": "./assets/009.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Caterpie",
+    "name": "Caterpie",
+    "imgSrc": "./assets/010.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Metapod",
+    "name": "Metapod",
+    "imgSrc": "./assets/011.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Butterfree",
+    "name": "Butterfree",
+    "imgSrc": "./assets/012.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Weedle",
+    "name": "Weedle",
+    "imgSrc": "./assets/013.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Kakuna",
+    "name": "Kakuna",
+    "imgSrc": "./assets/014.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Beedrill",
+    "name": "Beedrill",
+    "imgSrc": "./assets/015.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Pidgey",
+    "name": "Pidgey",
+    "imgSrc": "./assets/016.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Pidgeotto",
+    "name": "Pidgeotto",
+    "imgSrc": "./assets/017.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Pidgeot",
+    "name": "Pidgeot",
+    "imgSrc": "./assets/018.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Rattata",
+    "name": "Rattata",
+    "imgSrc": "./assets/019.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Raticate",
+    "name": "Raticate",
+    "imgSrc": "./assets/020.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Spearow",
+    "name": "Spearow",
+    "imgSrc": "./assets/021.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Fearow",
+    "name": "Fearow",
+    "imgSrc": "./assets/022.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Ekans",
+    "name": "Ekans",
+    "imgSrc": "./assets/023.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Arbok",
+    "name": "Arbok",
+    "imgSrc": "./assets/024.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Pikachu",
+    "name": "Pikachu",
+    "imgSrc": "./assets/025.png",
+    "type": "Electric",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Raichu",
+    "name": "Raichu",
+    "imgSrc": "./assets/026.png",
+    "type": "Electric",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Sandshrew",
+    "name": "Sandshrew",
+    "imgSrc": "./assets/027.png",
+    "type": "Terre",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Sandslash",
+    "name": "Sandslash",
+    "imgSrc": "./assets/028.png",
+    "type": "Terre",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Nidoran♀",
+    "name": "Nidoran",
+    "imgSrc": "./assets/029.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Nidorina",
+    "name": "Nidorina",
+    "imgSrc": "./assets/030.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Nidoran♂",
+    "name": "Nidoran",
+    "imgSrc": "./assets/031.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Nidorino",
+    "name": "Nidorino",
+    "imgSrc": "./assets/032.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Nidoking",
+    "name": "Nidoking",
+    "imgSrc": "./assets/033.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Nidoqueen",
+    "name": "Nidoqueen",
+    "imgSrc": "./assets/034.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Clefairy",
+    "name": "Clefairy",
+    "imgSrc": "./assets/035.png",
+    "type": "Fairy",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Clefable",
+    "name": "Clefable",
+    "imgSrc": "./assets/036.png",
+    "type": "Fairy",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Vulpix",
+    "name": "Vulpix",
+    "imgSrc": "./assets/037.png",
+    "type": "Feu",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Ninetales",
+    "name": "Ninetales",
+    "imgSrc": "./assets/038.png",
+    "type": "Feu",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Jigglypuff",
+    "name": "Jigglypuff",
+    "imgSrc": "./assets/039.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Wigglytuff",
+    "name": "Wigglytuff",
+    "imgSrc": "./assets/040.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Oddish",
+    "name": "Oddish",
+    "imgSrc": "./assets/043.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Gloom",
+    "name": "Gloom",
+    "imgSrc": "./assets/044.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Vileplume",
+    "name": "Vileplume",
+    "imgSrc": "./assets/045.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Paras",
+    "name": "Paras",
+    "imgSrc": "./assets/046.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Parasect",
+    "name": "Parasect",
+    "imgSrc": "./assets/047.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Venonat",
+    "name": "Venonat",
+    "imgSrc": "./assets/048.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Venomoth",
+    "name": "Venomoth",
+    "imgSrc": "./assets/049.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Diglett",
+    "name": "Diglett",
+    "imgSrc": "./assets/050.png",
+    "type": "Terre",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Dugtrio",
+    "name": "Dugtrio",
+    "imgSrc": "./assets/051.png",
+    "type": "Terre",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Meowth",
+    "name": "Meowth",
+    "imgSrc": "./assets/052.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Persian",
+    "name": "Persian",
+    "imgSrc": "./assets/053.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Psyduck",
+    "name": "Psyduck",
+    "imgSrc": "./assets/054.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Golduck",
+    "name": "Golduck",
+    "imgSrc": "./assets/055.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Mankey",
+    "name": "Mankey",
+    "imgSrc": "./assets/056.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Primeape",
+    "name": "Primeape",
+    "imgSrc": "./assets/057.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Growlithe",
+    "name": "Growlithe",
+    "imgSrc": "./assets/058.png",
+    "type": "Feu",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Arcanine",
+    "name": "Arcanine",
+    "imgSrc": "./assets/059.png",
+    "type": "Feu",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Poliwag",
+    "name": "Poliwag",
+    "imgSrc": "./assets/060.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Poliwhirl",
+    "name": "Poliwhirl",
+    "imgSrc": "./assets/061.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Poliwrath",
+    "name": "Poliwrath",
+    "imgSrc": "./assets/062.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Abra",
+    "name": "Abra",
+    "imgSrc": "./assets/063.png",
+    "type": "Psychic",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Kadabra",
+    "name": "Kadabra",
+    "imgSrc": "./assets/064.png",
+    "type": "Psychic",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Alakazam",
+    "name": "Alakazam",
+    "imgSrc": "./assets/065.png",
+    "type": "Psychic",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Machop",
+    "name": "Machop",
+    "imgSrc": "./assets/066.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Machoke",
+    "name": "Machoke",
+    "imgSrc": "./assets/067.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Machamp",
+    "name": "Machamp",
+    "imgSrc": "./assets/068.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Bellsprout",
+    "name": "Bellsprout",
+    "imgSrc": "./assets/069.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Weepinbell",
+    "name": "Weepinbell",
+    "imgSrc": "./assets/070.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Victreebel",
+    "name": "Victreebel",
+    "imgSrc": "./assets/071.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Tentacool",
+    "name": "Tentacool",
+    "imgSrc": "./assets/072.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Tentacruel",
+    "name": "Tentacruel",
+    "imgSrc": "./assets/073.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Geodude",
+    "name": "Geodude",
+    "imgSrc": "./assets/074.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Graveler",
+    "name": "Graveler",
+    "imgSrc": "./assets/075.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Golem",
+    "name": "Golem",
+    "imgSrc": "./assets/076.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Ponyta",
+    "name": "Ponyta",
+    "imgSrc": "./assets/077.png",
+    "type": "Feu",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Rapidash",
+    "name": "Rapidash",
+    "imgSrc": "./assets/078.png",
+    "type": "Feu",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Slowpoke",
+    "name": "Slowpoke",
+    "imgSrc": "./assets/079.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Slowbro",
+    "name": "Slowbro",
+    "imgSrc": "./assets/080.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Magnemite",
+    "name": "Magnemite",
+    "imgSrc": "./assets/081.png",
+    "type": "Electric",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Magneton",
+    "name": "Magneton",
+    "imgSrc": "./assets/082.png",
+    "type": "Electric",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Farfetch",
+    "name": "Farfetch",
+    "imgSrc": "./assets/pokdex.png/083",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Doduo",
+    "name": "Doduo",
+    "imgSrc": "./assets/084.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Dodrio",
+    "name": "Dodrio",
+    "imgSrc": "./assets/085.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Seel",
+    "name": "Seel",
+    "imgSrc": "./assets/086.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Dewgong",
+    "name": "Dewgong",
+    "imgSrc": "./assets/087.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Grimer",
+    "name": "Grimer",
+    "imgSrc": "./assets/088.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Muk",
+    "name": "Muk",
+    "imgSrc": "./assets/089.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Shellder",
+    "name": "Shellder",
+    "imgSrc": "./assets/090.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Cloyster",
+    "name": "Cloyster",
+    "imgSrc": "./assets/091.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Gastly",
+    "name": "Gastly",
+    "imgSrc": "./assets/pokdex.png/092",
+    "type": "Ghost",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Haunter",
+    "name": "Haunter",
+    "imgSrc": "./assets/pokdex.png/093",
+    "type": "Ghost",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Gengar",
+    "name": "Gengar",
+    "imgSrc": "./assets/pokdex.png/094",
+    "type": "Fantome",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Onix",
+    "name": "Onix",
+    "imgSrc": "./assets/095.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Drowzee",
+    "name": "Drowzee",
+    "imgSrc": "./assets/096.png",
+    "type": "Psychic",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Hypno",
+    "name": "Hypno",
+    "imgSrc": "./assets/097.png",
+    "type": "Psychic",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Krabby",
+    "name": "Krabby",
+    "imgSrc": "./assets/098.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Kingler",
+    "name": "Kingler",
+    "imgSrc": "./assets/099.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Voltorb",
+    "name": "Voltorb",
+    "imgSrc": "./assets/100.png",
+    "type": "Electric",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Electrode",
+    "name": "Electrode",
+    "imgSrc": "./assets/101.png",
+    "type": "Electric",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Exeggcute",
+    "name": "Exeggcute",
+    "imgSrc": "./assets/102.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Exeggutor",
+    "name": "Exeggutor",
+    "imgSrc": "./assets/103.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Cubone",
+    "name": "Cubone",
+    "imgSrc": "./assets/104.png",
+    "type": "Terre",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Marowak",
+    "name": "Marowak",
+    "imgSrc": "./assets/105.png",
+    "type": "Terre",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Hitmonlee",
+    "name": "Hitmonlee",
+    "imgSrc": "./assets/106.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Hitmonchan",
+    "name": "Hitmonchan",
+    "imgSrc": "./assets/107.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Lickitung",
+    "name": "Lickitung",
+    "imgSrc": "./assets/108.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Koffing",
+    "name": "Koffing",
+    "imgSrc": "./assets/109.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Weezing",
+    "name": "Weezing",
+    "imgSrc": "./assets/110.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Rhyhorn",
+    "name": "Rhyhorn",
+    "imgSrc": "./assets/111.png",
+    "type": "Terre",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Rhydon",
+    "name": "Rhydon",
+    "imgSrc": "./assets/112.png",
+    "type": "Terre",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Chansey",
+    "name": "Chansey",
+    "imgSrc": "./assets/113.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Tangela",
+    "name": "Tangela",
+    "imgSrc": "./assets/114.png",
+    "type": "Grass",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Kangaskhan",
+    "name": "Kangaskhan",
+    "imgSrc": "./assets/115.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Horsea",
+    "name": "Horsea",
+    "imgSrc": "./assets/116.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Seadra",
+    "name": "Seadra",
+    "imgSrc": "./assets/117.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Goldeen",
+    "name": "Goldeen",
+    "imgSrc": "./assets/118.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Seaking",
+    "name": "Seaking",
+    "imgSrc": "./assets/119.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Staryu",
+    "name": "Staryu",
+    "imgSrc": "./assets/120.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Starmie",
+    "name": "Starmie",
+    "imgSrc": "./assets/121.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Mr., ",
+    "name": "Mr",
+    "imgSrc": "./assets/pokdex.png/122",
+    "type": "Psychic",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Scyther",
+    "name": "Scyther",
+    "imgSrc": "./assets/123.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Jynx",
+    "name": "Jynx",
+    "imgSrc": "./assets/124.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Electabuzz",
+    "name": "Electabuzz",
+    "imgSrc": "./assets/125.png",
+    "type": "Electric",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Magmar",
+    "name": "Magmar",
+    "imgSrc": "./assets/126.png",
+    "type": "Feu",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Pinsir",
+    "name": "Pinsir",
+    "imgSrc": "./assets/127.png",
+    "type": "Insecte",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Tauros",
+    "name": "Tauros",
+    "imgSrc": "./assets/128.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Magikarp",
+    "name": "Magikarp",
+    "imgSrc": "./assets/129.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Gyarados",
+    "name": "Gyarados",
+    "imgSrc": "./assets/130.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Lapras",
+    "name": "Lapras",
+    "imgSrc": "./assets/131.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Ditto",
+    "name": "Ditto",
+    "imgSrc": "./assets/132.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Eevee",
+    "name": "Eevee",
+    "imgSrc": "./assets/133.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Vaporeon",
+    "name": "Vaporeon",
+    "imgSrc": "./assets/134.png",
+    "type": "Eau",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Jolteon",
+    "name": "Jolteon",
+    "imgSrc": "./assets/135.png",
+    "type": "Electric",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Flareon",
+    "name": "Flareon",
+    "imgSrc": "./assets/136.png",
+    "type": "Feu",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Porygon",
+    "name": "Porygon",
+    "imgSrc": "./assets/137.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Omanyte",
+    "name": "Omanyte",
+    "imgSrc": "./assets/138.png",
+    "type": "Poison",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Omastar",
+    "name": "Omastar",
+    "imgSrc": "./assets/139.png",
+    "type": "Fighting",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Kabuto",
+    "name": "Kabuto",
+    "imgSrc": "./assets/140.png",
+    "type": "Fighting",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Kabutops",
+    "name": "Kabutops",
+    "imgSrc": "./assets/141.png",
+    "type": "Fighting",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Aerodactyl",
+    "name": "Aerodactyl",
+    "imgSrc": "./assets/142.png",
+    "type": "Fighting",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Snorlax",
+    "name": "Snorlax",
+    "imgSrc": "./assets/143.png",
+    "type": "Normal",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Articuno",
+    "name": "Articuno",
+    "imgSrc": "./assets/144.png",
+    "type": "Fighting",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Zapdos",
+    "name": "Zapdos",
+    "imgSrc": "./assets/145.png",
+    "type": "Electric",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Moltres",
+    "name": "Moltres",
+    "imgSrc": "./assets/146.png",
+    "type": "Fighting",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Dratini",
+    "name": "Dratini",
+    "imgSrc": "./assets/147.png",
+    "type": "Dragon",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Dragonair",
+    "name": "Dragonair",
+    "imgSrc": "./assets/148.png",
+    "type": "Dragon",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Dragonite",
+    "name": "Dragonite",
+    "imgSrc": "./assets/149.png",
+    "type": "Dragon",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Mewtwo",
+    "name": "Mewtwo",
+    "imgSrc": "./assets/150.png",
+    "type": "Psychic",
+    "pokedex": "none"
+
+  },
+  {
+    "id": "Mew",
+    "name": "Mew",
+    "imgSrc": "./assets/151.png",
+    "type": "Psychic",
+    "pokedex": "none"
+
+  }
+]
+

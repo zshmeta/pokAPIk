@@ -1,0 +1,1964 @@
+[
+
+    
+        {
+            "id": 1,
+            "name": "Bulbasaur",
+            "imgSrc": "./assets/001.png",
+            "imgSrc2": "./assets/001-2.png",
+            "imgSrc3": "./assets/001-3.png",
+            "type": "Plante",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 3,
+                "name": "Venusaur"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Ivysaur",
+            "imgSrc": "./assets/002.png",
+            "imgSrc2": "./assets/002-2.png",
+            "imgSrc3": "./assets/002-3.png",
+            "type": "Plante",
+            "prevEvo": {
+                "id": 1,
+                "name": "Bulbasaur"
+            },
+            "nextEvo": {
+                "id": 3,
+                "name": "Venusaur"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Venusaur",
+            "imgSrc": "./assets/003.png",
+            "imgSrc2": "./assets/003-2.png",
+            "imgSrc3": "./assets/003-3.png",
+            "type": "Plante",
+            "prevEvo": {
+                
+                "id": 2,
+                "name": "Ivysaur"
+            },
+            "nextEvo": "null"
+        
+        },
+        {
+            "id": 4,
+            "name": "Charmander",
+            "imgSrc": "./assets/004.png",
+            "imgSrc2": "./assets/004-2.png",
+            "imgSrc3": "./assets/004-3.png",
+            "type": "Feu",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 6,
+                "name": "Charizard"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Charmeleon",
+            "imgSrc": "./assets/005.png",
+            "imgSrc2": "./assets/005-2.png",
+            "imgSrc3": "./assets/005-3.png",
+            "type": "Feu",
+            "prevEvo": {
+                "id": 4,
+                "name": "Charmander"
+            },
+            "nextEvo": {
+                "id": 6,
+                "name": "Charizard"
+            }
+        },
+        {
+            "id": 6,
+            "name": "Charizard",
+            "imgSrc": "./assets/006.png",
+            "imgSrc2": "./assets/006-2.png",
+            "imgSrc3": "./assets/006-3.png",
+            "type": "Feu",
+            "prevEvo": {
+                "id": 5,
+                "name": "Charmeleon"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 7,
+            "name": "Squirtle",
+            "imgSrc": "./assets/007.png",
+            "imgSrc2": "./assets/007-2.png",
+            "imgSrc3": "./assets/007-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 9,
+                "name": "Blastoise"
+            }
+        },
+        {
+            "id": 8,
+            "name": "Wartortle",
+            "imgSrc": "./assets/008.png",
+            "imgSrc2": "./assets/008-2.png",
+            "imgSrc3": "./assets/008-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 7,
+                "name": "Squirtle"
+            },
+            "nextEvo": {
+                "id": 9,
+                "name": "Blastoise"
+            }
+        },
+        {
+            "id": 9,
+            "name": "Blastoise",
+            "imgSrc": "./assets/009.png",
+            "imgSrc2": "./assets/009-2.png",
+            "imgSrc3": "./assets/009-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 8,
+                "name": "Wartortle"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 10,
+            "name": "Caterpie",
+            "imgSrc": "./assets/010.png",
+            "imgSrc2": "./assets/010-2.png",
+            "imgSrc3": "./assets/010-3.png",
+            "type": "Insecte",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 11,
+                "name": "Metapod"
+            }
+        },
+        {
+            "id": 11,
+            "name": "Metapod",
+            "imgSrc": "./assets/011.png",
+            "imgSrc2": "./assets/011-2.png",
+            "imgSrc3": "./assets/011-3.png",
+            "type": "Insecte",
+            "prevEvo": {
+                "id": 10,
+                "name": "Caterpie"
+            },
+            "nextEvo": {
+                "id": 12,
+                "name": "Butterfree"
+            }
+        },
+        {
+            "id": 12,
+            "name": "Butterfree",
+            "imgSrc": "./assets/012.png",
+            "imgSrc2": "./assets/012-2.png",
+            "imgSrc3": "./assets/012-3.png",
+            "type": "Insecte",
+            "prevEvo": {
+                "id": 11,
+                "name": "Metapod"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 13,
+            "name": "Weedle",
+            "imgSrc": "./assets/013.png",
+            "imgSrc2": "./assets/013-2.png",
+            "imgSrc3": "./assets/013-3.png",
+            "type": "Insecte",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 14,
+                "name": "Kakuna"
+            }
+        },
+        {
+            "id": 14,
+            "name": "Kakuna",
+            "imgSrc": "./assets/014.png",
+            "imgSrc2": "./assets/014-2.png",
+            "imgSrc3": "./assets/014-3.png",
+            "type": "Insecte",
+            "prevEvo": {
+                "id": 13,
+                "name": "Weedle"
+            },
+            "nextEvo": {
+                "id": 15,
+                "name": "Beedrill"
+            }
+        },
+        {
+            "id": 15,
+            "name": "Beedrill",
+            "imgSrc": "./assets/015.png",
+            "imgSrc2": "./assets/015-2.png",
+            "imgSrc3": "./assets/015-3.png",
+            "type": "Insecte",
+            "prevEvo": {
+                "id": 14,
+                "name": "Kakuna"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 16,
+            "name": "Pidgey",
+            "imgSrc": "./assets/016.png",
+            "imgSrc2": "./assets/016-2.png",
+            "imgSrc3": "./assets/016-3.png",
+            "type": "Vol",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 17,
+                "name": "Pidgeotto"
+            }
+        },
+        {
+            "id": 17,
+            "name": "Pidgeotto",
+            "imgSrc": "./assets/017.png",
+            "imgSrc2": "./assets/017-2.png",
+            "imgSrc3": "./assets/017-3.png",
+            "type": "Vol",
+            "prevEvo": {
+                "id": 16,
+                "name": "Pidgey"
+            },
+            "nextEvo": {
+                "id": 18,
+                "name": "Pidgeot"
+            }
+        },
+        {
+            "id": 18,
+            "name": "Pidgeot",
+            "imgSrc": "./assets/018.png",
+            "imgSrc2": "./assets/018-2.png",
+            "imgSrc3": "./assets/018-3.png",
+            "type": "Vol",
+            "prevEvo": {
+                "id": 17,
+                "name": "Pidgeotto"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 19,
+            "name": "Rattata",
+            "imgSrc": "./assets/019.png",
+            "imgSrc2": "./assets/019-2.png",
+            "imgSrc3": "./assets/019-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 20,
+                "name": "Raticate"
+            }
+        },
+        {
+            "id": 20,
+            "name": "Raticate",
+            "imgSrc": "./assets/020.png",
+            "imgSrc2": "./assets/020-2.png",
+            "imgSrc3": "./assets/020-3.png",
+            "type": "Normal",
+            "prevEvo": {
+                "id": 19,
+                "name": "Rattata"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 21,
+            "name": "Spearow",
+            "imgSrc": "./assets/021.png",
+            "imgSrc2": "./assets/021-2.png",
+            "imgSrc3": "./assets/021-3.png",
+            "type": "Vol",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 22,
+                "name": "Fearow"
+            }
+        },
+        {
+            "id": 22,
+            "name": "Fearow",
+            "imgSrc": "./assets/022.png",
+            "imgSrc2": "./assets/022-2.png",
+            "imgSrc3": "./assets/022-3.png",
+            "type": "Vol",
+            "prevEvo": {
+                "id": 21,
+                "name": "Spearow"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 23,
+            "name": "Ekans",
+            "imgSrc": "./assets/023.png",
+            "imgSrc2": "./assets/023-2.png",
+            "imgSrc3": "./assets/023-3.png",
+            "type": "Poison",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 24,
+                "name": "Arbok"
+            }
+        },
+        {
+            "id": 24,
+            "name": "Arbok",
+            "imgSrc": "./assets/024.png",
+            "imgSrc2": "./assets/024-2.png",
+            "imgSrc3": "./assets/024-3.png",
+            "type": "Poison",
+            "prevEvo": {
+                "id": 23,
+                "name": "Ekans"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 25,
+            "name": "Pikachu",
+            "imgSrc": "./assets/025.png",
+            "imgSrc2": "./assets/025-2.png",
+            "imgSrc3": "./assets/025-3.png",
+            "type": "Electrik",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 26,
+                "name": "Raichu"
+            }
+        },
+        {
+            "id": 26,
+            "name": "Raichu",
+            "imgSrc": "./assets/026.png",
+            "imgSrc2": "./assets/026-2.png",
+            "imgSrc3": "./assets/026-3.png",
+            "type": "Electrik",
+            "prevEvo": {
+                "id": 25,
+                "name": "Pikachu"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 27,
+            "name": "Sandshrew",
+            "imgSrc": "./assets/027.png",
+            "imgSrc2": "./assets/027-2.png",
+            "imgSrc3": "./assets/027-3.png",
+            "type": "Sol",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 28,
+                "name": "Sandslash"
+            }
+        },
+        {
+            "id": 28,
+            "name": "Sandslash",
+            "imgSrc": "./assets/028.png",
+            "imgSrc2": "./assets/028-2.png",
+            "imgSrc3": "./assets/028-3.png",
+            "type": "Sol",
+            "prevEvo": {
+                "id": 27,
+                "name": "Sandshrew"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 29,
+            "name": "Nidoran♀",
+            "imgSrc": "./assets/029.png",
+            "imgSrc2": "./assets/029-2.png",
+            "imgSrc3": "./assets/029-3.png",
+            "type": "Poison",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 30,
+                "name": "Nidorina"
+            }
+        },
+        {
+            "id": 30,
+            "name": "Nidorina",
+            "imgSrc": "./assets/030.png",
+            "imgSrc2": "./assets/030-2.png",
+            "imgSrc3": "./assets/030-3.png",
+            "type": "Poison",
+            "prevEvo": {
+                "id": 29,
+                "name": "Nidoran♀"
+            },
+            "nextEvo": {
+                "id": 31,
+                "name": "Nidoqueen"
+            }
+        },
+        {
+            "id": 31,
+            "name": "Nidoqueen",
+            "imgSrc": "./assets/031.png",
+            "imgSrc2": "./assets/031-2.png",
+            "imgSrc3": "./assets/031-3.png",
+            "type": "Poison",
+            "prevEvo": {
+                "id": 30,
+                "name": "Nidorina"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 32,
+            "name": "Nidoran♂",
+            "imgSrc": "./assets/032.png",
+            "imgSrc2": "./assets/032-2.png",
+            "imgSrc3": "./assets/032-3.png",
+            "type": "Poison",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 33,
+                "name": "Nidorino"
+            }
+        },
+        {
+            "id": 33,
+            "name": "Nidorino",
+            "imgSrc": "./assets/033.png",
+            "imgSrc2": "./assets/033-2.png",
+            "imgSrc3": "./assets/033-3.png",
+            "type": "Poison",
+            "prevEvo": {
+                "id": 32,
+                "name": "Nidoran♂"
+            },
+            "nextEvo": {
+                "id": 34,
+                "name": "Nidoking"
+            }
+        },
+        {
+            "id": 34,
+            "name": "Nidoking",
+            "imgSrc": "./assets/034.png",
+            "imgSrc2": "./assets/034-2.png",
+            "imgSrc3": "./assets/034-3.png",
+            "type": "Poison",
+            "prevEvo": {
+                "id": 33,
+                "name": "Nidorino"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 35,
+            "name": "Clefairy",
+            "imgSrc": "./assets/035.png",
+            "imgSrc2": "./assets/035-2.png",
+            "imgSrc3": "./assets/035-3.png",
+            "type": "Fée",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 36,
+                "name": "Clefable"
+            }
+        },
+        {
+            "id": 36,
+            "name": "Clefable",
+            "imgSrc": "./assets/036.png",
+            "imgSrc2": "./assets/036-2.png",
+            "imgSrc3": "./assets/036-3.png",
+            "type": "Fée",
+            "prevEvo": {
+                "id": 35,
+                "name": "Clefairy"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 37,
+            "name": "Vulpix",
+            "imgSrc": "./assets/037.png",
+            "imgSrc2": "./assets/037-2.png",
+            "imgSrc3": "./assets/037-3.png",
+            "type": "Feu",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 38,
+                "name": "Ninetales"
+            }
+        },
+        {
+            "id": 38,
+            "name": "Ninetales",
+            "imgSrc": "./assets/038.png",
+            "imgSrc2": "./assets/038-2.png",
+            "imgSrc3": "./assets/038-3.png",
+            "type": "Feu",
+            "prevEvo": {
+                "id": 37,
+                "name": "Vulpix"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 39,
+            "name": "Jigglypuff",
+            "imgSrc": "./assets/039.png",
+            "imgSrc2": "./assets/039-2.png",
+            "imgSrc3": "./assets/039-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 40,
+                "name": "Wigglytuff"
+            }
+        },
+        {
+            "id": 40,
+            "name": "Wigglytuff",
+            "imgSrc": "./assets/040.png",
+            "imgSrc2": "./assets/040-2.png",
+            "imgSrc3": "./assets/040-3.png",
+            "type": "Normal",
+            "prevEvo": {
+                "id": 39,
+                "name": "Jigglypuff"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 41,
+            "name": "Zubat",
+            "imgSrc": "./assets/041.png",
+            "imgSrc2": "./assets/041-2.png",
+            "imgSrc3": "./assets/041-3.png",
+            "type": "Poison",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 42,
+                "name": "Golbat"
+            }
+        },
+        {
+            "id": 42,
+            "name": "Golbat",
+            "imgSrc": "./assets/042.png",
+            "imgSrc2": "./assets/042-2.png",
+            "imgSrc3": "./assets/042-3.png",
+            "type": "Poison",
+            "prevEvo": {
+                "id": 41,
+                "name": "Zubat"
+            },
+            "nextEvo": {
+                "id": 169,
+                "name": "Crobat"
+            }
+        },
+        {
+            "id": 43,
+            "name": "Oddish",
+            "imgSrc": "./assets/043.png",
+            "imgSrc2": "./assets/043-2.png",
+            "imgSrc3": "./assets/043-3.png",
+            "type": "Plante",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 44,
+                "name": "Gloom"
+            }
+        },
+        {
+            "id": 44,
+            "name": "Gloom",
+            "imgSrc": "./assets/044.png",
+            "imgSrc2": "./assets/044-2.png",
+            "imgSrc3": "./assets/044-3.png",
+            "type": "Plante",
+            "prevEvo": {
+                "id": 43,
+                "name": "Oddish"
+            },
+            "nextEvo": {
+                "id": 45,
+                "name": "Vileplume"
+            }
+        },
+        {
+            "id": 45,
+            "name": "Vileplume",
+            "imgSrc": "./assets/045.png",
+            "imgSrc2": "./assets/045-2.png",
+            "imgSrc3": "./assets/045-3.png",
+            "type": "Plante",
+            "prevEvo": {
+                "id": 44,
+                "name": "Gloom"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 46,
+            "name": "Paras",
+            "imgSrc": "./assets/046.png",
+            "imgSrc2": "./assets/046-2.png",
+            "imgSrc3": "./assets/046-3.png",
+            "type": "Insecte",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 47,
+                "name": "Parasect"
+            }
+        },
+        {
+            "id": 47,
+            "name": "Parasect",
+            "imgSrc": "./assets/047.png",
+            "imgSrc2": "./assets/047-2.png",
+            "imgSrc3": "./assets/047-3.png",
+            "type": "Insecte",
+            "prevEvo": {
+                "id": 46,
+                "name": "Paras"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 48,
+            "name": "Venonat",
+            "imgSrc": "./assets/048.png",
+            "imgSrc2": "./assets/048-2.png",
+            "imgSrc3": "./assets/048-3.png",
+            "type": "Insecte",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 49,
+                "name": "Venomoth"
+            }
+        },
+        {
+            "id": 49,
+            "name": "Venomoth",
+            "imgSrc": "./assets/049.png",
+            "imgSrc2": "./assets/049-2.png",
+            "imgSrc3": "./assets/049-3.png",
+            "type": "Insecte",
+            "prevEvo": {
+                "id": 48,
+                "name": "Venonat"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 50,
+            "name": "Diglett",
+            "imgSrc": "./assets/050.png",
+            "imgSrc2": "./assets/050-2.png",
+            "imgSrc3": "./assets/050-3.png",
+            "type": "Sol",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 51,
+                "name": "Dugtrio"
+            }
+        },
+        {
+            "id": 51,
+            "name": "Dugtrio",
+            "imgSrc": "./assets/051.png",
+            "imgSrc2": "./assets/051-2.png",
+            "imgSrc3": "./assets/051-3.png",
+            "type": "Sol",
+            "prevEvo": {
+                "id": 50,
+                "name": "Diglett"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 52,
+            "name": "Meowth",
+            "imgSrc": "./assets/052.png",
+            "imgSrc2": "./assets/052-2.png",
+            "imgSrc3": "./assets/052-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 53,
+                "name": "Persian"
+            }
+        },
+        {
+            "id": 53,
+            "name": "Persian",
+            "imgSrc": "./assets/053.png",
+            "imgSrc2": "./assets/053-2.png",
+            "imgSrc3": "./assets/053-3.png",
+            "type": "Normal",
+            "prevEvo": {
+                "id": 52,
+                "name": "Meowth"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 54,
+            "name": "Psyduck",
+            "imgSrc": "./assets/054.png",
+            "imgSrc2": "./assets/054-2.png",
+            "imgSrc3": "./assets/054-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 55,
+                "name": "Golduck"
+            }
+        },
+        {
+            "id": 55,
+            "name": "Golduck",
+            "imgSrc": "./assets/055.png",
+            "imgSrc2": "./assets/055-2.png",
+            "imgSrc3": "./assets/055-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 54,
+                "name": "Psyduck"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 56,
+            "name": "Mankey",
+            "imgSrc": "./assets/056.png",
+            "imgSrc2": "./assets/056-2.png",
+            "imgSrc3": "./assets/056-3.png",
+            "type": "Combat",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 57,
+                "name": "Primeape"
+            }
+        },
+        {
+            "id": 57,
+            "name": "Primeape",
+            "imgSrc": "./assets/057.png",
+            "imgSrc2": "./assets/057-2.png",
+            "imgSrc3": "./assets/057-3.png",
+            "type": "Combat",
+            "prevEvo": {
+                "id": 56,
+                "name": "Mankey"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 58,
+            "name": "Growlithe",
+            "imgSrc": "./assets/058.png",
+            "imgSrc2": "./assets/058-2.png",
+            "imgSrc3": "./assets/058-3.png",
+            "type": "Feu",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 59,
+                "name": "Arcanine"
+            }
+        },
+        {
+            "id": 59,
+            "name": "Arcanine",
+            "imgSrc": "./assets/059.png",
+            "imgSrc2": "./assets/059-2.png",
+            "imgSrc3": "./assets/059-3.png",
+            "type": "Feu",
+            "prevEvo": {
+                "id": 58,
+                "name": "Growlithe"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 60,
+            "name": "Poliwag",
+            "imgSrc": "./assets/060.png",
+            "imgSrc2": "./assets/060-2.png",
+            "imgSrc3": "./assets/060-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 61,
+                "name": "Poliwhirl"
+            }
+        },
+        {
+            "id": 61,
+            "name": "Poliwhirl",
+            "imgSrc": "./assets/061.png",
+            "imgSrc2": "./assets/061-2.png",
+            "imgSrc3": "./assets/061-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 60,
+                "name": "Poliwag"
+            },
+            "nextEvo": {
+                "id": 62,
+                "name": "Poliwrath"
+            }
+        },
+        {
+            "id": 62,
+            "name": "Poliwrath",
+            "imgSrc": "./assets/062.png",
+            "imgSrc2": "./assets/062-2.png",
+            "imgSrc3": "./assets/062-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 61,
+                "name": "Poliwhirl"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 63,
+            "name": "Abra",
+            "imgSrc": "./assets/063.png",
+            "imgSrc2": "./assets/063-2.png",
+            "imgSrc3": "./assets/063-3.png",
+            "type": "Psy",
+            "prevEvo": "null", 
+            "nextEvo": {
+                "id": 64,
+                "name": "Kadabra"
+            } 
+        },
+        {
+            "id": 64,
+            "name": "Kadabra",
+            "imgSrc": "./assets/064.png",
+            "imgSrc2": "./assets/064-2.png",
+            "imgSrc3": "./assets/064-3.png",
+            "type": "Psy",
+            "prevEvo": {
+                "id": 63,
+                "name": "Abra"
+            },
+            "nextEvo": {
+                "id": 65,
+                "name": "Alakazam"
+            }
+        },
+        {
+            "id": 65,
+            "name": "Alakazam",
+            "imgSrc": "./assets/065.png",
+            "imgSrc2": "./assets/065-2.png",
+            "imgSrc3": "./assets/065-3.png",
+            "type": "Psy",
+            "prevEvo": {
+                "id": 64,
+                "name": "Kadabra"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 66,
+            "name": "Machop",
+            "imgSrc": "./assets/066.png",
+            "imgSrc2": "./assets/066-2.png",
+            "imgSrc3": "./assets/066-3.png",
+            "type": "Combat",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 67,
+                "name": "Machoke"
+            }
+        },
+        {
+            "id": 67,
+            "name": "Machoke",
+            "imgSrc": "./assets/067.png",
+            "imgSrc2": "./assets/067-2.png",
+            "imgSrc3": "./assets/067-3.png",
+            "type": "Combat",
+            "prevEvo": {
+                "id": 66,
+                "name": "Machop"
+            },
+            "nextEvo": {
+                "id": 68,
+                "name": "Machamp"
+            }
+        },
+        {
+            "id": 68,
+            "name": "Machamp",
+            "imgSrc": "./assets/068.png",
+            "imgSrc2": "./assets/068-2.png",
+            "imgSrc3": "./assets/068-3.png",
+            "type": "Combat",
+            " prevEvo": {
+                "id": 67,
+                "name": "Machoke"
+            }, 
+            "nextEvo": "null"
+        },
+        {
+            "id": 69,
+            "name": "Bellsprout",
+            "imgSrc": "./assets/069.png",
+            "imgSrc2": "./assets/069-2.png",
+            "imgSrc3": "./assets/069-3.png",
+            "type": "Plante",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 70,
+                "name": "Weepinbell"
+            }
+        },
+        {
+            "id": 70,
+            "name": "Weepinbell",
+            "imgSrc": "./assets/070.png",
+            "imgSrc2": "./assets/070-2.png",
+            "imgSrc3": "./assets/070-3.png",
+            "type": "Plante",
+            "prevEvo": {
+                "id": 69,
+                "name": "Bellsprout"
+            },
+            "nextEvo": {
+                "id": 71,
+                "name": "Victreebel"
+            }
+        },
+        {
+            "id": 71,
+            "name": "Victreebel",
+            "imgSrc": "./assets/071.png",
+            "imgSrc2": "./assets/071-2.png",
+            "imgSrc3": "./assets/071-3.png",
+            "type": "Plante",
+            "prevEvo": {
+                "id": 70,
+                "name": "Weepinbell"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 72,
+            "name": "Tentacool",
+            "imgSrc": "./assets/072.png",
+            "imgSrc2": "./assets/072-2.png",
+            "imgSrc3": "./assets/072-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 73,
+                "name": "Tentacruel"
+            }
+        },
+        {
+            "id": 73,
+            "name": "Tentacruel",
+            "imgSrc": "./assets/073.png",
+            "imgSrc2": "./assets/073-2.png",
+            "imgSrc3": "./assets/073-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 72,
+                "name": "Tentacool"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 74,
+            "name": "Geodude",
+            "imgSrc": "./assets/074.png",
+            "imgSrc2": "./assets/074-2.png",
+            "imgSrc3": "./assets/074-3.png",
+            "type": "Roche",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 75,
+                "name": "Graveler"
+            }
+        },
+        {
+            "id": 75,
+            "name": "Graveler",
+            "imgSrc": "./assets/075.png",
+            "imgSrc2": "./assets/075-2.png",
+            "imgSrc3": "./assets/075-3.png",
+            "type": "Roche",
+            "prevEvo": {
+                "id": 74,
+                "name": "Geodude"
+            },
+            "nextEvo": {
+                "id": 76,
+                "name": "Golem"
+            }
+        },
+        {
+            "id": 76,
+            "name": "Golem",
+            "imgSrc": "./assets/076.png",
+            "imgSrc2": "./assets/076-2.png",
+            "imgSrc3": "./assets/076-3.png",
+            "type": "Roche",
+            "prevEvo": {
+                "id": 75,
+                "name": "Graveler"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 77,
+            "name": "Ponyta",
+            "imgSrc": "./assets/077.png",
+            "imgSrc2": "./assets/077-2.png",
+            "imgSrc3": "./assets/077-3.png",
+            "type": "Feu",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 78,
+                "name": "Rapidash"
+            }
+        },
+        {
+            "id": 78,
+            "name": "Rapidash",
+            "imgSrc": "./assets/078.png",
+            "imgSrc2": "./assets/078-2.png",
+            "imgSrc3": "./assets/078-3.png",
+            "type": "Feu",
+            "prevEvo": {
+                "id": 77,
+                "name": "Ponyta"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 79,
+            "name": "Slowpoke",
+            "imgSrc": "./assets/079.png",
+            "imgSrc2": "./assets/079-2.png",
+            "imgSrc3": "./assets/079-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 80,
+                "name": "Slowbro"
+            }
+        },
+        {
+            "id": 80,
+            "name": "Slowbro",
+            "imgSrc": "./assets/080.png",
+            "imgSrc2": "./assets/080-2.png",
+            "imgSrc3": "./assets/080-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 79,
+                "name": "Slowpoke"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 81,
+            "name": "Magnemite",
+            "imgSrc": "./assets/081.png",
+            "imgSrc2": "./assets/081-2.png",
+            "imgSrc3": "./assets/081-3.png",
+            "type": "Electrik",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 82,
+                "name": "Magneton"
+            }
+        },
+        {
+            "id": 82,
+            "name": "Magneton",
+            "imgSrc": "./assets/082.png",
+            "imgSrc2": "./assets/082-2.png",
+            "imgSrc3": "./assets/082-3.png",
+            "type": "Electrik",
+            "prevEvo": {
+                "id": 81,
+                "name": "Magnemite"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 83,
+            "name": "Farfetch'd",
+            "imgSrc": "./assets/083.png",
+            "imgSrc2": "./assets/083-2.png",
+            "imgSrc3": "./assets/083-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 84,
+            "name": "Doduo", 
+            "imgSrc": "./assets/084.png",
+            "imgSrc2": "./assets/084-2.png",
+            "imgSrc3": "./assets/084-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 85,
+                "name": "Dodrio"
+            }
+        },
+        {
+            "id": 85,
+            "name": "Dodrio",
+            "imgSrc": "./assets/085.png",
+            "imgSrc2": "./assets/085-2.png",
+            "imgSrc3": "./assets/085-3.png",
+            "type": "Normal",
+            "prevEvo": {
+                "id": 84,
+                "name": "Doduo"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 86,
+            "name": "Seel",
+            "imgSrc": "./assets/086.png",
+            "imgSrc2": "./assets/086-2.png",
+            "imgSrc3": "./assets/086-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 87,
+                "name": "Dewgong"
+            }
+        },
+        {
+            "id": 87,
+            "name": "Dewgong",
+            "imgSrc": "./assets/087.png",
+            "imgSrc2": "./assets/087-2.png",
+            "imgSrc3": "./assets/087-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 86,
+                "name": "Seel"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 88,
+            "name": "Grimer",
+            "imgSrc": "./assets/088.png",
+            "imgSrc2": "./assets/088-2.png",
+            "imgSrc3": "./assets/088-3.png",
+            "type": "Poison",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 89,
+                "name": "Muk"
+            }
+        },
+        {
+            "id": 89,
+            "name": "Muk",
+            "imgSrc": "./assets/089.png",
+            "imgSrc2": "./assets/089-2.png",
+            "imgSrc3": "./assets/089-3.png",
+            "type": "Poison",
+            "prevEvo": {
+                "id": 88,
+                "name": "Grimer"
+            },
+            "nextEvo": "null"
+        }, 
+        {
+            "id": 90,
+            "name": "Shellder",
+            "imgSrc": "./assets/090.png",
+            "imgSrc2": "./assets/090-2.png",
+            "imgSrc3": "./assets/090-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 91,
+                "name": "Cloyster"
+            }
+        },
+        {
+            "id": 91,
+            "name": "Cloyster",
+            "imgSrc": "./assets/091.png",
+            "imgSrc2": "./assets/091-2.png",
+            "imgSrc3": "./assets/091-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 90,
+                "name": "Shellder"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 92,
+            "name": "Gastly",
+            "imgSrc": "./assets/092.png",
+            "imgSrc2": "./assets/092-2.png",
+            "imgSrc3": "./assets/092-3.png",
+            "type": "Spectre",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 93,
+                "name": "Haunter"
+            }
+        },
+        {
+            "id": 93,
+            "name": "Haunter",
+            "imgSrc": "./assets/093.png",
+            "imgSrc2": "./assets/093-2.png",
+            "imgSrc3": "./assets/093-3.png",
+            "type": "Spectre",
+            "prevEvo": {
+                "id": 92,
+                "name": "Gastly"
+            },
+            "nextEvo": {
+                "id": 94,
+                "name": "Gengar"
+            }
+        },
+        {
+            "id": 94,
+            "name": "Gengar",
+            "imgSrc": "./assets/094.png",
+            "imgSrc2": "./assets/094-2.png",
+            "imgSrc3": "./assets/094-3.png",
+            "type": "Spectre",
+            "prevEvo": {
+                "id": 93,
+                "name": "Haunter"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 95,
+            "name": "Onix",
+            "imgSrc": "./assets/095.png",
+            "imgSrc2": "./assets/095-2.png",
+            "imgSrc3": "./assets/095-3.png",
+            "type": "Roche",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 96,
+            "name": "Drowzee",
+            "imgSrc": "./assets/096.png",
+            "imgSrc2": "./assets/096-2.png",
+            "imgSrc3": "./assets/096-3.png",
+            "type": "Psy",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 97,
+                "name": "Hypno"
+            }
+        },
+        {
+            "id": 97,
+            "name": "Hypno",
+            "imgSrc": "./assets/097.png",
+            "imgSrc2": "./assets/097-2.png",
+            "imgSrc3": "./assets/097-3.png",
+            "type": "Psy",
+            "prevEvo": {
+                "id": 96,
+                "name": "Drowzee"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 98,
+            "name": "Krabby",
+            "imgSrc": "./assets/098.png",
+            "imgSrc2": "./assets/098-2.png",
+            "imgSrc3": "./assets/098-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 99,
+                "name": "Kingler"
+            }
+        },
+        {
+            "id": 99,
+            "name": "Kingler",
+            "imgSrc": "./assets/099.png",
+            "imgSrc2": "./assets/099-2.png",
+            "imgSrc3": "./assets/099-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 98,
+                "name": "Krabby"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 100,
+            "name": "Volt",
+            "imgSrc": "./assets/100.png",
+            "imgSrc2": "./assets/100-2.png",
+            "imgSrc3": "./assets/100-3.png",
+            "type": "Electrik",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 101,
+                "name": "Electrode"
+            }
+        },
+        {
+            "id": 101,
+            "name": "Electrode",
+            "imgSrc": "./assets/101.png",
+            "imgSrc2": "./assets/101-2.png",
+            "imgSrc3": "./assets/101-3.png",
+            "type": "Electrik",
+            "prevEvo": {
+                "id": 100,
+                "name": "Volt"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 102,
+            "name": "Exeggcute",
+            "imgSrc": "./assets/102.png",
+            "imgSrc2": "./assets/102-2.png",
+            "imgSrc3": "./assets/102-3.png",
+            "type": "Plante",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 103,
+                "name": "Exeggutor"
+            }
+        },
+        {
+            "id": 103,
+            "name": "Exeggutor",
+            "imgSrc": "./assets/103.png",
+            "imgSrc2": "./assets/103-2.png",
+            "imgSrc3": "./assets/103-3.png",
+            "type": "Plante",
+            "prevEvo": {
+                "id": 102,
+                "name": "Exeggcute"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 104,
+            "name": "Cubone",
+            "imgSrc": "./assets/104.png",
+            "imgSrc2": "./assets/104-2.png",
+            "imgSrc3": "./assets/104-3.png",
+            "type": "Sol",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 105,
+                "name": "Marowak"
+            }
+        },
+        {
+            "id": 105,
+            "name": "Marowak",
+            "imgSrc": "./assets/105.png",
+            "imgSrc2": "./assets/105-2.png",
+            "imgSrc3": "./assets/105-3.png",
+            "type": "Sol",
+            "prevEvo": {
+                "id": 104,
+                "name": "Cubone"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 106,
+            "name": "Hitmonlee",
+            "imgSrc": "./assets/106.png",
+            "imgSrc2": "./assets/106-2.png",
+            "imgSrc3": "./assets/106-3.png",
+            "type": "Combat",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 107,
+            "name": "Hitmonchan",
+            "imgSrc": "./assets/107.png",
+            "imgSrc2": "./assets/107-2.png",
+            "imgSrc3": "./assets/107-3.png",
+            "type": "Combat",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 108,
+            "name": "Lickitung",
+            "imgSrc": "./assets/108.png",
+            "imgSrc2": "./assets/108-2.png",
+            "imgSrc3": "./assets/108-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 109,
+            "name": "Koffing",
+            "imgSrc": "./assets/109.png",
+            "imgSrc2": "./assets/109-2.png",
+            "imgSrc3": "./assets/109-3.png",
+            "type": "Poison",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 110,
+                "name": "Weezing"
+            }
+        },
+        {
+            "id": 110,
+            "name": "Weezing",
+            "imgSrc": "./assets/110.png",
+            "imgSrc2": "./assets/110-2.png",
+            "imgSrc3": "./assets/110-3.png",
+            "type": "Poison",
+            "prevEvo": {
+                "id": 109,
+                "name": "Koffing"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 111,
+            "name": "Rhyhorn",
+            "imgSrc": "./assets/111.png",
+            "imgSrc2": "./assets/111-2.png",
+            "imgSrc3": "./assets/111-3.png",
+            "type": "Sol",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 112,
+                "name": "Rhydon"
+            }
+        },
+        {
+            "id": 112,
+            "name": "Rhydon",
+            "imgSrc": "./assets/112.png",
+            "imgSrc2": "./assets/112-2.png",
+            "imgSrc3": "./assets/112-3.png",
+            "type": "Sol",
+            "prevEvo": {
+                "id": 111,
+                "name": "Rhyhorn"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 113,
+            "name": "Chansey",
+            "imgSrc": "./assets/113.png",
+            "imgSrc2": "./assets/113-2.png",
+            "imgSrc3": "./assets/113-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 114,
+            "name": "Tangela",
+            "imgSrc": "./assets/114.png",
+            "imgSrc2": "./assets/114-2.png",
+            "imgSrc3": "./assets/114-3.png",
+            "type": "Plante",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 115,
+            "name": "Kangaskhan",
+            "imgSrc": "./assets/115.png",
+            "imgSrc2": "./assets/115-2.png",
+            "imgSrc3": "./assets/115-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 116,
+            "name": "Horsea",
+            "imgSrc": "./assets/116.png",
+            "imgSrc2": "./assets/116-2.png",
+            "imgSrc3": "./assets/116-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 117,
+                "name": "Seadra"
+            }
+        },
+        {
+            "id": 117,
+            "name": "Seadra",
+            "imgSrc": "./assets/117.png",
+            "imgSrc2": "./assets/117-2.png",
+            "imgSrc3": "./assets/117-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 116,
+                "name": "Horsea"
+            },
+            "nextEvo": {
+                "id": 118,
+                "name": "Kingdra"
+            }
+        },
+        {
+            "id": 118,
+            "name": "Kingdra",
+            "imgSrc": "./assets/118.png",
+            "imgSrc2": "./assets/118-2.png",
+            "imgSrc3": "./assets/118-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 117,
+                "name": "Seadra"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 119,
+            "name": "Goldeen",
+            "imgSrc": "./assets/119.png",
+            "imgSrc2": "./assets/119-2.png",
+            "imgSrc3": "./assets/119-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 120,
+                "name": "Seaking"
+            }
+        },
+        {
+            "id": 120,
+            "name": "Seaking",
+            "imgSrc": "./assets/120.png",
+            "imgSrc2": "./assets/120-2.png",
+            "imgSrc3": "./assets/120-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 119,
+                "name": "Goldeen"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 121,
+            "name": "Staryu",
+            "imgSrc": "./assets/121.png",
+            "imgSrc2": "./assets/121-2.png",
+            "imgSrc3": "./assets/121-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 122,
+                "name": "Starmie"
+            }
+        },
+        {
+            "id": 122,
+            "name": "Starmie",
+            "imgSrc": "./assets/122.png",
+            "imgSrc2": "./assets/122-2.png",
+            "imgSrc3": "./assets/122-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 121,
+                "name": "Staryu"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 123,
+            "name": "Mr. Mime",
+            "imgSrc": "./assets/123.png",
+            "imgSrc2": "./assets/123-2.png",
+            "imgSrc3": "./assets/123-3.png",
+            "type": "Psy",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 124,
+            "name": "Scyther",
+            "imgSrc": "./assets/124.png",
+            "imgSrc2": "./assets/124-2.png",
+            "imgSrc3": "./assets/124-3.png",
+            "type": "Insecte",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 125,
+            "name": "Jynx",
+            "imgSrc": "./assets/125.png",
+            "imgSrc2": "./assets/125-2.png",
+            "imgSrc3": "./assets/125-3.png",
+            "type": "Glace",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 126,
+            "name": "Electabuzz",
+            "imgSrc": "./assets/126.png",
+            "imgSrc2": "./assets/126-2.png",
+            "imgSrc3": "./assets/126-3.png",
+            "type": "Electrik",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 127,
+            "name": "Magmar",
+            "imgSrc": "./assets/127.png",
+            "imgSrc2": "./assets/127-2.png",
+            "imgSrc3": "./assets/127-3.png",
+            "type": "Feu",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 128,
+            "name": "Pinsir",
+            "imgSrc": "./assets/128.png",
+            "imgSrc2": "./assets/128-2.png",
+            "imgSrc3": "./assets/128-3.png",
+            "type": "Insecte",
+            "prevEvo": "null", 
+            "nextEvo": "null"
+        },
+        {
+            "id": 129,
+            "name": "Tauros",
+            "imgSrc": "./assets/129.png",
+            "imgSrc2": "./assets/129-2.png",
+            "imgSrc3": "./assets/129-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 130,
+            "name": "Magikarp",
+            "imgSrc": "./assets/130.png",
+            "imgSrc2": "./assets/130-2.png",
+            "imgSrc3": "./assets/130-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 131,
+                "name": "Gyarados"
+            }
+        },
+        {
+            "id": 131,
+            "name": "Gyarados",
+            "imgSrc": "./assets/131.png",
+            "imgSrc2": "./assets/131-2.png",
+            "imgSrc3": "./assets/131-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 130,
+                "name": "Magikarp"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 132,
+            "name": "Lapras",
+            "imgSrc": "./assets/132.png",
+            "imgSrc2": "./assets/132-2.png",
+            "imgSrc3": "./assets/132-3.png",
+            "type": "Eau",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 133,
+            "name": "Ditto",
+            "imgSrc": "./assets/133.png",
+            "imgSrc2": "./assets/133-2.png",
+            "imgSrc3": "./assets/133-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 134,
+            "name": "Eevee",
+            "imgSrc": "./assets/134.png",
+            "imgSrc2": "./assets/134-2.png",
+            "imgSrc3": "./assets/134-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 135,
+                "name": "Vaporeon"
+            }
+        },
+        {
+            "id": 135,
+            "name": "Vaporeon",
+            "imgSrc": "./assets/135.png",
+            "imgSrc2": "./assets/135-2.png",
+            "imgSrc3": "./assets/135-3.png",
+            "type": "Eau",
+            "prevEvo": {
+                "id": 134,
+                "name": "Eevee"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 136,
+            "name": "Jolteon",
+            "imgSrc": "./assets/136.png",
+            "imgSrc2": "./assets/136-2.png",
+            "imgSrc3": "./assets/136-3.png",
+            "type": "Electrik",
+            "prevEvo": {
+                "id": 134,
+                "name": "Eevee"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 137,
+            "name": "Flareon",
+            "imgSrc": "./assets/137.png",
+            "imgSrc2": "./assets/137-2.png",
+            "imgSrc3": "./assets/137-3.png",
+            "type": "Feu",
+            "prevEvo": {
+                "id": 134,
+                "name": "Eevee"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 138,
+            "name": "Porygon",
+            "imgSrc": "./assets/138.png",
+            "imgSrc2": "./assets/138-2.png",
+            "imgSrc3": "./assets/138-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 139,
+            "name": "Omanyte",
+            "imgSrc": "./assets/139.png",
+            "imgSrc2": "./assets/139-2.png",
+            "imgSrc3": "./assets/139-3.png",
+            "type": "Roche",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 140,
+                "name": "Omastar"
+            }
+        },
+        {
+            "id": 140, 
+            "name": "Omastar",
+            "imgSrc": "./assets/140.png",
+            "imgSrc2": "./assets/140-2.png",
+            "imgSrc3": "./assets/140-3.png",
+            "type": "Roche",
+            "prevEvo": {
+                "id": 139,
+                "name": "Omanyte"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 141,
+            "name": "Kabuto",
+            "imgSrc": "./assets/141.png",
+            "imgSrc2": "./assets/141-2.png",
+            "imgSrc3": "./assets/141-3.png",
+            "type": "Roche",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 142,
+                "name": "Kabutops"
+            }
+        },
+        {
+            "id": 142,
+            "name": "Kabutops",
+            "imgSrc": "./assets/142.png",
+            "imgSrc2": "./assets/142-2.png",
+            "imgSrc3": "./assets/142-3.png",
+            "type": "Roche",
+            "prevEvo": {
+                "id": 141,
+                "name": "Kabuto"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 143,
+            "name": "Aerodactyl",
+            "imgSrc": "./assets/143.png",
+            "imgSrc2": "./assets/143-2.png",
+            "imgSrc3": "./assets/143-3.png",
+            "type": "Roche",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 144,
+            "name": "Snorlax",
+            "imgSrc": "./assets/144.png",
+            "imgSrc2": "./assets/144-2.png",
+            "imgSrc3": "./assets/144-3.png",
+            "type": "Normal",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 145,
+            "name": "Articuno",
+            "imgSrc": "./assets/145.png",
+            "imgSrc2": "./assets/145-2.png",
+            "imgSrc3": "./assets/145-3.png",
+            "type": "Glace",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 146,
+            "name": "Zapdos",
+            "imgSrc": "./assets/146.png",
+            "imgSrc2": "./assets/146-2.png",
+            "imgSrc3": "./assets/146-3.png",
+            "type": "Electrik",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 147,
+            "name": "Moltres",
+            "imgSrc": "./assets/147.png",
+            "imgSrc2": "./assets/147-2.png",
+            "imgSrc3": "./assets/147-3.png",
+            "type": "Feu",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 148,
+            "name": "Dratini",
+            "imgSrc": "./assets/148.png",
+            "imgSrc2": "./assets/148-2.png",
+            "imgSrc3": "./assets/148-3.png",
+            "type": "Dragon",
+            "prevEvo": "null",
+            "nextEvo": {
+                "id": 149,
+                "name": "Dragonair"
+            }
+        },
+        {
+            "id": 149,
+            "name": "Dragonair",
+            "imgSrc": "./assets/149.png",
+            "imgSrc2": "./assets/149-2.png",
+            "imgSrc3": "./assets/149-3.png",
+            "type": "Dragon",
+            "prevEvo": {
+                "id": 148,
+                "name": "Dratini"
+            },
+            "nextEvo": {
+                "id": 150,
+                "name": "Dragonite"
+            }
+        },
+        {
+            "id": 150,
+            "name": "Dragonite",
+            "imgSrc": "./assets/150.png",
+            "imgSrc2": "./assets/150-2.png",
+            "imgSrc3": "./assets/150-3.png",
+            "type": "Dragon",
+            "prevEvo": {
+                "id": 149,
+                "name": "Dragonair"
+            },
+            "nextEvo": "null"
+        },
+        {
+            "id": 151,
+            "name": "Mewtwo",
+            "imgSrc": "./assets/151.png",
+            "imgSrc2": "./assets/151-2.png",
+            "imgSrc3": "./assets/151-3.png",
+            "type": "Psy",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        },
+        {
+            "id": 152,
+            "name": "Mew",
+            "imgSrc": "./assets/152.png",
+            "imgSrc2": "./assets/152-2.png",
+            "imgSrc3": "./assets/152-3.png",
+            "type": "Psy",
+            "prevEvo": "null",
+            "nextEvo": "null"
+        }
+    ]
+
+
+   

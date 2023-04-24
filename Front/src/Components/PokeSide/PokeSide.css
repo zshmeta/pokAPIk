@@ -1,0 +1,28 @@
+.sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background: #1a1a1a;
+    color: #fff;
+    transition: all 0.3s;
+    z-index: 100;
+}
+
+button{
+    border-radius: 8px;
+    padding: 0.6em 1.2em;
+    font-size: 1em;
+    background: linear-gradient(90deg, lawngreen 0%, #883688 90%  );
+    border: 2px solid chocolate;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 500;
+    font-family: inherit;
+    margin-bottom: 3em;
+
+    cursor: pointer;
+    transition: border-color 0.25s;
+}
