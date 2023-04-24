@@ -1,0 +1,17 @@
+                            @import url('https://fonts.cdnfonts.com/css/pokemon-solid');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family:"Pokemon Solid", sans-serif;
+  font-size: 55px;
+
+}
+
+p, .score{
+  background: linear-gradient(to right, #ff0000 0%, #ffffff 25%, #ff0000 25%, #ff0000 50%, #ffffff 95%, #ff0000 99%);
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+
+}
